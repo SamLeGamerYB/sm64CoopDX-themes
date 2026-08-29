@@ -2,7 +2,7 @@
 The themes are made by the creator and the community
 
 ## How it work?
-To publish your theme simply [create an Issue](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues) with the tag "Theme" Or [click this](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues/new?title=Theme&labels=Theme). Then slide the picture of your choice (from the web or explorer) into the issue page. And just press publish. Wait a few hours and it will be in [the releases](https://github.com/SamLeGamerYB/sm64CoopDX-themes/releases)
+To publish your theme simply [create an Issue](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues) with the tag "Theme" Or [click this](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues/new?title=Theme&labels=Theme). Then slide the picture of your choice (from the web or explorer) into the issue page at the description text box. And just press "Create". Wait a few hours and it will be in [the releases](https://github.com/SamLeGamerYB/sm64CoopDX-themes/releases)
 
 ## Rules
 1. 🔞 No NSFW Content (Private parts must be covered, so bikini and stuff like that are accepted)
