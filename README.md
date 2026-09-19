@@ -14,13 +14,15 @@ The themes are made by the creator and the community
 \- A Folder image [[download Default]]
 \- A installed image [[download Default]]
 \- A refresh logo button [[download Default]]
-\- An icon to click to download mods
+\- A logo for the "download mods" button [[download Default]]
 You must put thoses name...
 - "background.png" for the background image
-- "logo.png" for the logo (Do not apply on the taskbar but only in app)
+- "logo.png" for the logo (**Do not apply on the taskbar but only in app**)
 - "folder.png" when choosing for the game's folder
-- "installed.mng
-All of that must be a .png then put all that in a compressed file (.7z, .Zip, .rar or .gz) then put it in *FILE PLACE WIP*.
+- "installed.png" an icon for the downloaded mod list
+- "discover.png" an icon for the page to download mods
+- "refresh.png" an icon for refresh button in the downloaded mods list
+All of that must be a .png then put all that in a compressed file (.7z, .Zip, .rar or .gz) then put it in *FILE PLACE WIP*, and rename with the name that you want.
 If you want to publish it, go to [this link](https://github.com/SamLeGamerYB/sm64CoopDX-themes/#how-to-publish-a-theme)  
 > Note: If any image content transparency background, it will turn the BG black (i can't fix it with custom themes)
 
