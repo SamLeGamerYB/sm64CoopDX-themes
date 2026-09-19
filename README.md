@@ -2,20 +2,34 @@
 The themes are made by the creator and the community
 
 # Contents
-- [What do i need?](https://github.com/SamLeGamerYB/sm64CoopDX-themes/#what-do-i-need)  
+- [What do i need?](https://github.com/SamLeGamerYB/sm64CoopDX-themes/#what-do-i-need-to-create-a-theme)  
 - [How to publish a theme?](https://github.com/SamLeGamerYB/sm64CoopDX-themes/#how-to-publish-a-theme)  
 - [How to find a custom theme?](https://github.com/SamLeGamerYB/sm64CoopDX-themes/#how-to-find-a-custom-theme)  
 - [How to install it?](https://github.com/SamLeGamerYB/sm64CoopDX-themes/#how-to-install-it)  
 - [Rules](https://github.com/SamLeGamerYB/sm64CoopDX-themes/#rules)  
 
-## What do i need?
+## What do i need to create a theme?
+\- A background image [[download Default]]
+\- A logo image [[download Default]]
+\- A Folder image [[download Default]]
+\- A installed image [[download Default]]
+\- A refresh logo button [[download Default]]
+\- An icon to click to download mods
+You must put thoses name...
+- "background.png" for the background image
+- "logo.png" for the logo (Do not apply on the taskbar but only in app)
+- "folder.png" when choosing for the game's folder
+- "installed.mng
+All of that must be a .png then put all that in a compressed file (.7z, .Zip, .rar or .gz) then put it in *FILE PLACE WIP*.
+If you want to publish it, go to [this link](https://github.com/SamLeGamerYB/sm64CoopDX-themes/#how-to-publish-a-theme)  
+> Note: If any image content transparency background, it will turn the BG black (i can't fix it with custom themes)
 
 
 ## How to publish a theme?
-To publish your theme simply [create an Issue](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues) with the tag "Theme" Or [click this](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues/new?title=Theme&labels=Theme). Then slide the picture of your choice (from the web or explorer) into the issue page at the description text box. And just press "Create".
+To publish your theme simply [create an Issue](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues) with the tag "Theme" Or [click this](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues/new?title=Theme&labels=Theme). Then slide the zip (from your folder or a link) into the issue page at the description text box. And just press "Create".
 
 ## How to find a custom theme?
-Download themes from [the releases](https://github.com/SamLeGamerYB/sm64CoopDX-themes/releases) use the search bar to discribe one thing you see on the image. Exemple: <img width="200" height="100" alt="SI_N64_SuperMario64_image1600w" src="https://github.com/user-attachments/assets/0a349e33-795c-4877-a06b-b22bed7f9107" /> the thing you will search to find this theme are *mario*, *menu*, *wing*, *cap*, *coin*, *stars*, *Earth*, *castle*, *monsters*, *goomba*, *boo*, *bomb-omb*, *pockey*, *logo*, *flowers*, *tree palm*, *sky* and *2D*
+Download themes from [the releases](https://github.com/SamLeGamerYB/sm64CoopDX-themes/releases) use the search bar to discribe what you want. Exemple: *DARK BLACK THEME* You could discribe it with: *Black*, *dark*...
 
 ## How to install it?
 WIP
