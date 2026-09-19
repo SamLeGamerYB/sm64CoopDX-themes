@@ -10,6 +10,7 @@ The themes are made by the creator and the community
 
 ## What do i need?
 
+
 ## How to publish a theme?
 To publish your theme simply [create an Issue](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues) with the tag "Theme" Or [click this](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues/new?title=Theme&labels=Theme). Then slide the picture of your choice (from the web or explorer) into the issue page at the description text box. And just press "Create".
 
