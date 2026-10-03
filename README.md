@@ -9,12 +9,12 @@ The themes are made by the creator and the community
 - [Rules](https://github.com/SamLeGamerYB/sm64CoopDX-themes/#rules)  
 
 ## What do i need to create a theme?
-\- A background image [[download Default]]
-\- A logo image [[download Default]]
-\- A Folder image [[download Default]]
-\- A installed image [[download Default]]
-\- A refresh logo button [[download Default]]
-\- A logo for the "download mods" button [[download Default]]
+\- A background image [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/background.png)  
+\- A logo image [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/logo.png)  
+\- A Folder image [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/folder.png)  
+\- A installed image [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/installed.png)  
+\- A refresh logo button [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/refresh.png)  
+\- A logo for the "download mods" button [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/discover.png)  
 You must put thoses name...
 - "background.png" for the background image
 - "logo.png" for the logo (**Do not apply on the taskbar but only in app**)
