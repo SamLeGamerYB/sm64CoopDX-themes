@@ -23,8 +23,10 @@ You must put thoses name...
 - "discover.png" an icon for the page to download mods
 - "refresh.png" an icon for refresh button in the downloaded mods list
 All of that must be a .png then put all that in a compressed file (.7z, .Zip, .rar or .gz) then put it in *FILE PLACE WIP*, and rename with the name that you want.
+### WARNING
+Png files have to BE png files and not just a random image, remove the extention of the file and replace it with png **THE CODE OF THE IMAGE DOESEN'T CHANGE**. If your icon is in a different format you can look up "Online File converter". The best you can use is [freeconvert.com](https://www.freeconvert.com/image-converter) and [https://convertio.co/](https://convertio.co/)
 If you want to publish it, go to [this link](https://github.com/SamLeGamerYB/sm64CoopDX-themes/#how-to-publish-a-theme)  
-> Note: If any image content transparency background, it will turn the BG black (i can't fix it with custom themes)
+> Note: If any image content transparency background, won't be transparent and we can see the *chess background*
 
 
 ## How to publish a theme?
