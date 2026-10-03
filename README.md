@@ -26,13 +26,14 @@ All of that must be an original .png then put all that in a compressed file (.7z
 ### WARNING
 Png files have to BE png files and not just a random image, remove the extention of the file and replace it with png **THE CODE OF THE IMAGE DOESEN'T CHANGE**. If your icon is in a different format you can look up "Online File converter". The best you can use is [freeconvert.com](https://www.freeconvert.com/image-converter) and [https://convertio.co/](https://convertio.co/)    
 > Note: If any image content transparency background, won't be transparent and we can see the *chess background*
+> Note2: If any theme dosen't contain some of the png's files the default one will takeover
 
 
 ## How to publish a theme?
-To publish your theme simply [create an Issue](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues) with the tag "Theme" Or [click this](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues/new?title=Theme&labels=Theme). Then slide the zip (from your folder or a link) into the issue page at the description text box. And just press "Create".
+To publish your theme simply [create an Issue](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues) with the tag "Theme" Or [click this](https://github.com/SamLeGamerYB/sm64CoopDX-themes/issues/new?title=Theme&labels=Theme). Then slide the zip (from your folder or a link) into the issue page at the description text box. (If the art is from someone put one of his/hers social media) And just press "Create".
 
 ## How to find a custom theme?
-Download themes from [the releases](https://github.com/SamLeGamerYB/sm64CoopDX-themes/releases) use the search bar to discribe what you want. Exemple: *DARK BLACK THEME* You could discribe it with: *Black*, *dark*...
+Download themes from [the releases](https://github.com/SamLeGamerYB/sm64CoopDX-themes/releases) use the search bar to discribe what you want. Exemple: *DARK BLACK THEME* You could discribe it with: *Black*, *dark*, *Old*...
 
 ## How to install it?
 WIP
@@ -42,6 +43,6 @@ WIP
 2. 🩸 No realistic gore (Obviously Fake or funny creation are accepted)
 3. 👤 If the art is not yours, make the credit of any social of the art's creator 
 
-**IF ONE RULE IS BROKEN, THE UPLOADED THEME WILL BE DELETED**
+**IF ONE RULE IS BROKEN, THE UPLOADED THEME AND ISSUE WILL BE DELETED IN LESS THAN 24H**
 
 ###### [Switch to the application Github](https://github.com/SamLeGamerYB/sm64CoopDX)
