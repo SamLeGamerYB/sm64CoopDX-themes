@@ -9,12 +9,13 @@ The themes are made by the creator and the community
 - [Rules](https://github.com/SamLeGamerYB/sm64CoopDX-themes/#rules)  
 
 ## What do i need to create a theme?
-\- A background image [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/background.png)  
-\- A logo image [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/logo.png)  
-\- A Folder image [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/folder.png)  
-\- A installed image [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/installed.png)  
-\- A refresh logo button [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/refresh.png)  
-\- A logo for the "download mods" button [download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/discover.png)  
+\- (OPTIONAL) **BASEPLATE**: You can use this as a baseplate and modify the files  
+\- A background image [[download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/background.png)]  
+\- A logo image [[download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/logo.png)]  
+\- A Folder image [[download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/folder.png)]  
+\- A installed image [[download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/installed.png)]  
+\- A refresh logo button [[download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/refresh.png)]  
+\- A logo for the "download mods" button [[download Default](https://github.com/SamLeGamerYB/sm64CoopDX-themes/blob/main/discover.png)]  
 You must put thoses name...
 - "background.png" for the background image
 - "logo.png" for the logo (**Do not apply on the taskbar but only in app**)
@@ -22,11 +23,11 @@ You must put thoses name...
 - "installed.png" an icon for the downloaded mod list
 - "discover.png" an icon for the page to download mods
 - "refresh.png" an icon for refresh button in the downloaded mods list  
-All of that must be an original .png then put all that in a compressed file (.7z, Other formats are not supported) then put it in *SM64COOPDX-Manager\renderer\assets*, and rename with the name that you want.
+All of that must be an original .png then put all that in a compressed file (.zip, Other formats are not supported) then put it in *SM64COOPDX-Manager\renderer\assets*, and rename with the name that you want.
 ### WARNING
 Png files have to BE png files and not just a random image, remove the extention of the file and replace it with png **THE CODE OF THE IMAGE DOESEN'T CHANGE**. If your icon is in a different format you can look up "Online File converter". The best you can use is [freeconvert.com](https://www.freeconvert.com/image-converter) and [https://convertio.co/](https://convertio.co/)    
 > Note: If any image content transparency background, won't be transparent and we can see the *chess background*
-> Note2: If any theme dosen't contain some of the png's files the default one will takeover
+> Note2: If any theme dosen't contain some of the png's files the default one will replace the non-existing one
 
 
 ## How to publish a theme?
