@@ -41,8 +41,8 @@ WIP
 ## Rules
 1. 🔞 No NSFW Content (Private parts must be covered, so bikini and stuff like that are accepted)
 2. 🩸 No realistic gore (Obviously Fake or funny creation are accepted)
-3. 👤 If the art is not yours, make the credit of any social of the art's creator
-4. Stay related to SM64 content  
+3. 👤 If the art is not yours, make the credit of any social of the art's creator 
+
 **IF ONE RULE IS BROKEN, THE UPLOADED THEME WILL BE DELETED**
 
 ###### [Switch to the application Github](https://github.com/SamLeGamerYB/sm64CoopDX)
